@@ -1,10 +1,9 @@
 # SilverNeuron_Potential_customer
 
-Project Report
-Task: To find potential customers for different services provided by the company using past data
-and provide possible changes for sales conversions.
+# Project Report
+# Task: To find potential customers for different services provided by the company using past data and provide possible changes for sales conversions.
 
-Project:
+# Project:
 The data provided contained the list of the Customer IDs along with the number of services bought (
 divided into 9 categories from P1 to P9), ratios of services being used, amount of services assigned,
 customer size, segment (S_1 to S_5), time since purchase and few unknow variables( Var1, Var2,
